@@ -1,0 +1,11 @@
+<b>SXDrive 0.4.8</b><br>
+<br>
+Changes in this release include:<br>
+- show ETA and transfer speed for uploads and downloads in the tray menu<br>
+- AES256 filter improvements for better compatibility with SX 1.2<br>
+- add option to check for beta releases<br>
+- show deleted files in sync history<br>
+- full Retina support on OS X<br>
+- improve volume tab layout<br>
+- restart all active profiles after an upgrade<br>
+- minor fixes and improvements

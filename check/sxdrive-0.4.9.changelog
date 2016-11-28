@@ -1,0 +1,8 @@
+<b>SXDrive 0.4.9</b><br>
+<br>
+Changes in this release include:<br>
+- support for listing and restoring file revisions<br>
+- support for creating public links via SXWeb<br>
+- support for regular expressions in selective sync<br>
+- minor fixes and improvements
+

@@ -1,0 +1,82 @@
+Package: libsxclient-dev
+Source: sx
+Version: 2.3-1-1~jessie
+Architecture: i386
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 36
+Depends: libsxclient6 (= 2.3-1-1~jessie)
+Homepage: http://www.skylable.com/products/sx
+Priority: optional
+Section: libdevel
+Filename: pool/main/s/sx/libsxclient-dev_2.3-1-1~jessie_i386.deb
+Size: 9612
+SHA256: 0342d4f8c992d83042747a980caa3dcdbfff41ae18ac78775461af3b60885416
+SHA1: 9f93e4c0a84c02e1af44fcdc01158b356c50fb71
+MD5sum: ae3cac6156463dc4da9789a5e4897909
+Description: Scalable public and private cloud storage
+ Skylable Sx is a reliable, fully distributed cluster solution for your data
+ storage needs.
+ .
+ With Sx you can aggregate the disk space available on multiple servers and
+ merge it into a single storage system.
+ The cluster makes sure that your data is always replicated over multiple nodes
+ (the exact number of copies is defined by the sysadmin) and synchronized.
+ .
+ Additionally Sx has built-in support for deduplication, client-side
+ encryption, on-the-fly compression and much more.
+
+Package: libsxclient6
+Source: sx
+Version: 2.3-1-1~jessie
+Architecture: i386
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 609
+Depends: libc6 (>= 2.17), libcurl3 (>= 7.28.0), libltdl7 (>= 2.4.2), libssl1.0.0 (>= 1.0.0), libyajl2 (>= 2.0.4), zlib1g (>= 1:1.1.4)
+Breaks: libsxclient2, libsxclient3, libsxclient4
+Replaces: libsxclient2, libsxclient3, libsxclient4
+Homepage: http://www.skylable.com/products/sx
+Priority: optional
+Section: web
+Filename: pool/main/s/sx/libsxclient6_2.3-1-1~jessie_i386.deb
+Size: 214782
+SHA256: 10567122ccf5c659807570b0f4029cc515c1f7df02c4c581e188acecb99171a9
+SHA1: 13e8bd287478b8f8fccedc7add279216f571a978
+MD5sum: 33bfbeb447a9cba558b72104d87195a8
+Description: Scalable public and private cloud storage
+ Skylable Sx is a reliable, fully distributed cluster solution for your data
+ storage needs.
+ .
+ With Sx you can aggregate the disk space available on multiple servers and
+ merge it into a single storage system.
+ The cluster makes sure that your data is always replicated over multiple nodes
+ (the exact number of copies is defined by the sysadmin) and synchronized.
+ .
+ Additionally Sx has built-in support for deduplication, client-side
+ encryption, on-the-fly compression and much more.
+
+Package: sx
+Version: 2.3-1-1~jessie
+Architecture: i386
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 6743
+Depends: libc6 (>= 2.17), libcurl3 (>= 7.16.2), libfcgi0ldbl, libfuse2 (>= 2.8), libltdl7 (>= 2.4.2), libssl1.0.0 (>= 1.0.1), libsxclient6, libyajl2 (>= 2.0.4), zlib1g (>= 1:1.2.0), openssl, logrotate, ca-certificates
+Homepage: http://www.skylable.com/products/sx
+Priority: optional
+Section: web
+Filename: pool/main/s/sx/sx_2.3-1-1~jessie_i386.deb
+Size: 1887202
+SHA256: 935a31b164739787e92643be6c192f77b7eeb9c63405a7fd35dcf2b7f15ee995
+SHA1: 90748f430aee581df968dfec2ee51d995f32b078
+MD5sum: 0c176d22ce2e314393c1f363aa5b0fb2
+Description: Scalable public and private cloud storage
+ Skylable Sx is a reliable, fully distributed cluster solution for your data
+ storage needs.
+ .
+ With Sx you can aggregate the disk space available on multiple servers and
+ merge it into a single storage system.
+ The cluster makes sure that your data is always replicated over multiple nodes
+ (the exact number of copies is defined by the sysadmin) and synchronized.
+ .
+ Additionally Sx has built-in support for deduplication, client-side
+ encryption, on-the-fly compression and much more.
+

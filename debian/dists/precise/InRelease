@@ -1,0 +1,57 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: www.skylable.com
+Label: apt repository
+Codename: precise
+Date: Fri, 18 Nov 2016 11:22:15 UTC
+Architectures: amd64 i386
+Components: main
+Description: Skylable APT repository
+MD5Sum:
+ b528c56b55364934ac7d85bf241a6a99 4376 main/binary-amd64/Packages
+ 4219d9e62f12b9608a798dabe32afa39 1442 main/binary-amd64/Packages.gz
+ 518e5ad1b6987d76652b592034fef933 120 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 2cadd05f29364c8118a265c631efac05 119 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 7c33c254fefbc03d8a2dc27aa21b65b2 121 main/source/Release
+SHA1:
+ da0b2c6c1989a7489ca3c6ce35af4c3f27889370 4376 main/binary-amd64/Packages
+ 91c9d084012cb4c1ca5be7aec6e35821e87346d2 1442 main/binary-amd64/Packages.gz
+ 0f66aed0770509e30a4b3dd515f514554b2ff042 120 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 4e3fedd720936b5bb22314e4366055d3340b77e2 119 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 4929fe3806fceb6f6ed484fe44e0d34ea940aab5 121 main/source/Release
+SHA256:
+ 4ab6448dc6ae765b28af991ca807666b54876f4f134855c1b7b424a428e5ad17 4376 main/binary-amd64/Packages
+ f8610f5d98f5947d0b4a25e3f977515745dd64460eaeed1a454cce3494a4ee19 1442 main/binary-amd64/Packages.gz
+ a74becc6e342299f80afd7158e90b43fad9a45b2c18e83812217fcb0eb68a3dc 120 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 90aa21b8852d9ea4dd8ce0d3564c3c27534466441b7a5a257b8c2bd4e87ddcd7 119 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ f777b6777d412ab0aab32799faaab4dc0c22c427f95ac4111f7297966663ee71 121 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJYLuRnAAoJEFN34ZK3vB0ujBcQAJtj3IiTANmE7yxF1phHj4pf
+JX7tEW3l1mYbUKTqU3dwLGCUVHRpVIappmZuixfbJQR8zuSCNVZ9C8JlbIPyp7yz
+XPJ50LGqPPimRlBGSuKq3WKlktS4HBkRRcSZx907Shq3AP8/k3SuKRelgKwJeJSv
+/Y+HZWolTCYmYzDzI2XtnYv86K/dy/EkTGztvfyJWEdZl3WF6NtO1UNkh+iTf/j2
+ZLv/VK0RZtU0WFHD0otfhLM63oUpvczGrCSuaHGvC1zuE+VgDf6YKk9HXVGaY6xx
+3ltj1ygGH51OpelQ715ZqspOglSxJeS3ZcJqrUD/qNu7qG16u6Fbl43kajnSb6BW
+sofFisjQ+yETy6oPTSQxkH9AErR6V2mT7BUA8p3/olQLQQmBsaWZDZNtdInOeNFO
+Fq2j41MBN7wg/WOwhqkqq7WKNXVq4HGlEcXporJAxJcQmhQXGCAvbS2fEMbxUb8k
+4NvrLUEGIr2BWJW9/FC7luTdAZiDTSfsoRqFeBYDdhqHdgemL4PLPgQzcz8X1kw1
+gBR4K1l0BGKF6+mZo0460hrH6NtXT7ceJyruOb05/AI2s151VVL6jh2zmxpMeFEW
+WAI+Pm47oVa6UWoVEmwwrFfKC0/F77x2Ny+9urgDREYCsTrMwj1hqH9wC0oC8fEA
+1Kf5T2y//iBowA/gTpN7
+=oe9l
+-----END PGP SIGNATURE-----

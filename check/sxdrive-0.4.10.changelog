@@ -1,0 +1,9 @@
+<b>SXDrive 0.4.10</b><br> 
+<br> 
+Changes in this release include:<br> 
+- support for the new aes256 filter of Skylable SX 2.0 with filename encryption<br> 
+- profile manager in application settings<br> 
+- support for directory sharing with SXShare<br>
+- new French translation<br>
+- double clicking a file on the activity page opens a directory containing the file<br>
+- minor fixes and improvements 

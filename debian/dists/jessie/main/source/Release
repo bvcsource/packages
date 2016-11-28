@@ -1,0 +1,5 @@
+Component: main
+Origin: www.skylable.com
+Label: apt repository
+Architecture: source
+Description: Skylable APT repository

@@ -1,0 +1,8 @@
+SXDrive 0.4.5 includes minor improvements and cosmetic fixes:
+- fix handling of selective synchronization (Settings -> Selective sync)
+- improve download notifications
+- don't show the list of volumes in the systray menu (go to Settings -> Volumes for the list of available volumes)
+- show transfer direction for files in Settings -> Activity
+- support configuration link format of Skylable SX 1.1
+- improve installation and upgrades on Windows
+- try to work-around filesystem watcher issues on OS X

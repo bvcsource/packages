@@ -1,0 +1,106 @@
+Package: libres3
+Version: 1.3-1-1~precise
+Architecture: amd64
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 18392
+Depends: libc6 (>= 2.15), libev4 (>= 1:4.04), libpcre3 (>= 8.10), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4), openssl
+Homepage: http://www.skylable.com/products/libres3
+Priority: optional
+Section: ocaml
+Filename: pool/main/libr/libres3/libres3_1.3-1-1~precise_amd64.deb
+Size: 6294720
+SHA256: 38dac75fb2c38f1e4d5c0205fd69b95045fb2f055085a8ac875a098c092e9def
+SHA1: 53c74dc53eba3044507619aee0159371899ceca7
+MD5sum: 15aeb67bfda0b1493426324d66c23696
+Description: Amazon S3 compatible server
+ LibreS3 is a robust Open Source replacement for the Amazon S3 service,
+ implementing (a subset of) the S3 REST API.
+ .
+ Standard S3 client libraries and tools (for example s3cmd, python-boto, ...)
+ can be used to access it.
+ .
+ It uses Skylable SX as the storage backend, which automatically provides
+ data deduplication and replication.
+
+Package: libsxclient-dev
+Source: sx
+Version: 2.3-1-1~precise
+Architecture: amd64
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 36
+Depends: libsxclient6 (= 2.3-1-1~precise)
+Homepage: http://www.skylable.com/products/sx
+Priority: optional
+Section: libdevel
+Filename: pool/main/s/sx/libsxclient-dev_2.3-1-1~precise_amd64.deb
+Size: 10526
+SHA256: 39041752b5f74b660534eeb4f25c6478689896154499c52101373605f987763a
+SHA1: 9290e4154cc781adeadda0100ed5cdcfe05efef4
+MD5sum: 4a81e36e50bbc94e12544109e639b88f
+Description: Scalable public and private cloud storage
+ Skylable Sx is a reliable, fully distributed cluster solution for your data
+ storage needs.
+ .
+ With Sx you can aggregate the disk space available on multiple servers and
+ merge it into a single storage system.
+ The cluster makes sure that your data is always replicated over multiple nodes
+ (the exact number of copies is defined by the sysadmin) and synchronized.
+ .
+ Additionally Sx has built-in support for deduplication, client-side
+ encryption, on-the-fly compression and much more.
+
+Package: libsxclient6
+Source: sx
+Version: 2.3-1-1~precise
+Architecture: amd64
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 813
+Depends: libc6 (>= 2.15), libltdl7 (>= 2.4.2), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4)
+Breaks: libsxclient2, libsxclient3, libsxclient4
+Replaces: libsxclient2, libsxclient3, libsxclient4
+Homepage: http://www.skylable.com/products/sx
+Priority: optional
+Section: web
+Filename: pool/main/s/sx/libsxclient6_2.3-1-1~precise_amd64.deb
+Size: 371192
+SHA256: bd1174cdf431c834f371bfeacb8384942e473c7d8ddec4bba7b6a9fdf7d4f309
+SHA1: 69a92c3dafc8026b93c76e13e6c0f4eb8c2ea44c
+MD5sum: eb6a375827c065da87e516c6a103fe63
+Description: Scalable public and private cloud storage
+ Skylable Sx is a reliable, fully distributed cluster solution for your data
+ storage needs.
+ .
+ With Sx you can aggregate the disk space available on multiple servers and
+ merge it into a single storage system.
+ The cluster makes sure that your data is always replicated over multiple nodes
+ (the exact number of copies is defined by the sysadmin) and synchronized.
+ .
+ Additionally Sx has built-in support for deduplication, client-side
+ encryption, on-the-fly compression and much more.
+
+Package: sx
+Version: 2.3-1-1~precise
+Architecture: amd64
+Maintainer: Skylable Dev Team <dev-team@skylable.com>
+Installed-Size: 5976
+Depends: libc6 (>= 2.15), libfcgi0ldbl, libfuse2 (>= 2.8.1), libssl1.0.0 (>= 1.0.1), libsxclient6, zlib1g (>= 1:1.2.0), openssl, logrotate, ca-certificates
+Homepage: http://www.skylable.com/products/sx
+Priority: optional
+Section: web
+Filename: pool/main/s/sx/sx_2.3-1-1~precise_amd64.deb
+Size: 3044452
+SHA256: e289733fd9d82bfba6ec857be0f2a2c6924ea0398275054563a477df2069ea13
+SHA1: 1ca2b83d9476971a8e52cbd01882b551e0246891
+MD5sum: 833de660f2d237c372ced922c2702587
+Description: Scalable public and private cloud storage
+ Skylable Sx is a reliable, fully distributed cluster solution for your data
+ storage needs.
+ .
+ With Sx you can aggregate the disk space available on multiple servers and
+ merge it into a single storage system.
+ The cluster makes sure that your data is always replicated over multiple nodes
+ (the exact number of copies is defined by the sysadmin) and synchronized.
+ .
+ Additionally Sx has built-in support for deduplication, client-side
+ encryption, on-the-fly compression and much more.
+

@@ -1,0 +1,37 @@
+Origin: www.skylable.com
+Label: apt repository
+Codename: jessie
+Date: Fri, 18 Nov 2016 11:22:25 UTC
+Architectures: amd64 i386
+Components: main
+Description: Skylable APT repository
+MD5Sum:
+ 3db38c3f14b37fe06a6c6608b0b938b3 6948 main/binary-amd64/Packages
+ c11710e2868574ec6ffe1dba5c92be7f 2298 main/binary-amd64/Packages.gz
+ 518e5ad1b6987d76652b592034fef933 120 main/binary-amd64/Release
+ 459e83ad841041d2ce3f77252051ec19 3502 main/binary-i386/Packages
+ 89b1e5911383da8f1f4b92ff27c2f46f 1090 main/binary-i386/Packages.gz
+ 2cadd05f29364c8118a265c631efac05 119 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 7c33c254fefbc03d8a2dc27aa21b65b2 121 main/source/Release
+SHA1:
+ e3aed7dbd98928e2c8d22c352d4d345db5a33ef1 6948 main/binary-amd64/Packages
+ 742e2affc05fa82f60ddcfbd84e27db345fda887 2298 main/binary-amd64/Packages.gz
+ 0f66aed0770509e30a4b3dd515f514554b2ff042 120 main/binary-amd64/Release
+ 7c749f2a03506cb779d56fb0c3754e7772907a44 3502 main/binary-i386/Packages
+ c503cecbe338c671e8ad87835e9f2b4137537d81 1090 main/binary-i386/Packages.gz
+ 4e3fedd720936b5bb22314e4366055d3340b77e2 119 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 4929fe3806fceb6f6ed484fe44e0d34ea940aab5 121 main/source/Release
+SHA256:
+ 377a63b4f1e446b4bafbd2df59ca3be78f2bbca0abdcc273241a90c189152dd1 6948 main/binary-amd64/Packages
+ a0483a0fa0333e703b63d88d27a022a302e58767e4cd4552cdcaa06181a6d051 2298 main/binary-amd64/Packages.gz
+ a74becc6e342299f80afd7158e90b43fad9a45b2c18e83812217fcb0eb68a3dc 120 main/binary-amd64/Release
+ 0de96b463282698c8cef273b5101097e7223e618ff1d5ccd4b7d65bbb3e9fe8c 3502 main/binary-i386/Packages
+ 052d19aa36cf0c3e6b29ab48f18249f75c56a43b9c1524bcc935978ca6491a3f 1090 main/binary-i386/Packages.gz
+ 90aa21b8852d9ea4dd8ce0d3564c3c27534466441b7a5a257b8c2bd4e87ddcd7 119 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ f777b6777d412ab0aab32799faaab4dc0c22c427f95ac4111f7297966663ee71 121 main/source/Release
